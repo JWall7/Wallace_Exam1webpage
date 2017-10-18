@@ -1,0 +1,14 @@
+---
+title: "Wallace_Exam1webpage"
+author: "Wallace"
+date: "October 18, 2017"
+output: html_document
+---
+Here is some arithmetic:
+
+```{r}
+x<-7
+y<-9
+x-cos(y)
+```
+
